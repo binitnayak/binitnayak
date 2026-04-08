@@ -76,7 +76,7 @@ Developing an intelligent system using Computer Vision + Machine Learning to con
 
 🌐 Connect With Me
 
-- GitHub: https://github.com/amitkumar15x
+- GitHub: https://github.com/binitnayak
 
 ---
 
