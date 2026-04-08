@@ -22,7 +22,8 @@ I am a passionate Computer Science student and developer interested in Programmi
 - 👯 I’m looking to collaborate on AI / ML Projects
 - 🤔 I’m looking for help with Advanced Machine Learning Models
 - 💬 Ask me about Python, Java, Web Development, AI Basics
-- 📫 How to reach me: https://github.com/amitkumar15x
+- 📫 How to reach me: https://github.com/binitnayak
+- 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning ideas into intelligent systems 🤖
 
