@@ -68,35 +68,35 @@ about_me = {
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">📺 Youtube Tags Generator</h3>
+      <h3 align="center">🤖 AI-Powered Content Generator</h3>
       <p align="center">
-        AI-powered tag generator using Google Gemini API
+        Production-grade AI content generation system with Gemini API
       </p>
       <p align="center">
-        <strong>Stack:</strong> Next.js, TypeScript, Drizzle ORM, Neon DB, Gemini API
+        <strong>Stack:</strong> Next.js, TypeScript, Gemini API, Database Integration
       </p>
       <p align="center">
-        🎯 Real-time API integration | 🗄️ Database optimization | 🔧 Debug workflow
+        🎯 Real-time API integration | 🗄️ Database optimization | ⚡ Production deployment
       </p>
       <p align="center">
-        <a href="https://github.com/binitnayak/youtube-tags">
+        <a href="https://github.com/binitnayak/Ai-powered-content-generator">
           <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎨 binit-exe Portfolio</h3>
+      <h3 align="center">🎨 Portfolio</h3>
       <p align="center">
-        Cinematic Ben10-themed portfolio with scroll animations
+        Modern portfolio showcasing projects and skills
       </p>
       <p align="center">
-        <strong>Stack:</strong> React, IntersectionObserver, Tailwind CSS
+        <strong>Stack:</strong> React, TypeScript, Tailwind CSS, Responsive Design
       </p>
       <p align="center">
-        ✨ Scroll-triggered animations | 🎬 Omnitrix UI components | 🎯 Interactive design
+        ✨ Beautiful UI | 📱 Fully Responsive | 🚀 Fast & Optimized
       </p>
       <p align="center">
-        <a href="https://github.com/binitnayak/binit-exe">
+        <a href="https://github.com/binitnayak/portfolio">
           <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
         </a>
       </p>
@@ -106,13 +106,23 @@ about_me = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binitnayak&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binitnayak&theme=tokyonight&layout=compact&hide_border=true)
+[![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api?username=binitnayak&theme=tokyonight)](https://github.com/binitnayak)
+
+**Top Languages Used:**
+- 🔵 **TypeScript** - Next.js, React projects
+- 🟡 **JavaScript** - Full-stack development  
+- 🟣 **Python** - ML & AI projects
+- 🟢 **Others** - HTML, CSS, SQL
+
+**GitHub Highlights:**
+- 📈 Actively contributing to projects
+- 🔥 Focused on quality over quantity
+- 🎯 Building production-ready applications
+- 🚀 Continuous learning & shipping
 
 </div>
 
