@@ -164,7 +164,8 @@ I believe in:
 |----------|------|
 | 💼 **LinkedIn** | [Visit Profile](https://linkedin.com/in/binitdev) |
 | 🐙 **GitHub** | [Follow Me](https://github.com/binitnayak) |
-| 🌐 **Portfolio** | [binit-exe.vercel.app](https://binit-exe.vercel.app) |
+| 🌐 **Portfolio** | [binit-exe.vercel.app](https://binitportfolioz.netlify.app/
+) |
 | 📧 **Email** | Drop me a message! |
 
 </div>
