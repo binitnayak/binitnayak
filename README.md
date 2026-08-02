@@ -163,7 +163,7 @@ I believe in:
 | Platform | Link |
 |----------|------|
 | 💼 **LinkedIn** | [Visit Profile](https://linkedin.com/in/binitdev) |
-| 🐙 **GitHub** | [Follow Me](https://github.com/binitnayak) |
+| 🐙 **GitHub** | [Follow Me]https://github.com/binitnayak |
 | 🌐 **Portfolio** |(https://binitportfolioz.netlify.app/) |
 | 📧 **Email** | Drop me a message! |
 
@@ -181,7 +181,7 @@ const binit = {
     "AI/ML Integration",
     "Production Deployments",
     "Tech Discussions"
-  ],
+  ], 
   availability: "Always happy to help!"
 };
 
