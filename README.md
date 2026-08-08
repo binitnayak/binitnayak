@@ -24,7 +24,7 @@ about_me = {
 }
 ```
 
-🎓 **Third-year B.Tech CS student** at Jharkhand Rai University (Class of 2027)  
+🎓 **Fourth-year B.Tech CS student** at Jharkhand Rai University (Class of 2027)  
 🔥 **MERN Stack Developer** - React, Node.js, Express, MongoDB expert  
 🚀 **Maker mindset** - Not just tutorials, real shipped projects  
 🤖 **AI/ML enthusiast** - Gemini API, Machine Learning, Computer Vision
