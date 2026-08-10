@@ -158,17 +158,13 @@ I believe in:
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 **LinkedIn** | [Visit Profile](https://linkedin.com/in/binitdev) |
-| 🐙 **GitHub** | [Follow Me]https://github.com/binitnayak |
-| 🌐 **Portfolio** |(https://binitportfolioz.netlify.app/) |
-| 📧 **Email** | Drop me a message! |
+<div align="center">Platform| Link
+💼 LinkedIn| "Visit Profile" (https://linkedin.com/in/binitdev)
+🐙 GitHub| "Follow Me" (https://github.com/binitnayak)
+🌐 Portfolio| "Visit Portfolio" (https://binitportfolioz.netlify.app/)
+📧 Email| "Drop me a message" (mailto:your-email@example.com)
 
 </div>
-
 ---
 
 ## ⚙️ How to Reach Me
