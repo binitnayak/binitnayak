@@ -191,15 +191,18 @@ I believe the best way to learn software development is to **build real things**
 * ✅ Continuously improving through projects and experimentation
 
 ---
+<div align="center">
 
 ## 🔗 Connect With Me
 
-| Platform     | Link                                                       |
-| ------------ | ---------------------------------------------------------- |
-| 💼 LinkedIn  | [Connect with me](https://linkedin.com/in/binitdev)        |
-| 🐙 GitHub    | [Follow me](https://github.com/binitnayak)                 |
+| Platform | Link |
+|:--------:|:----:|
+| 💼 LinkedIn | [Connect with me](https://linkedin.com/in/binitdev) |
+| 🐙 GitHub | [Follow me](https://github.com/binitnayak) |
 | 🌐 Portfolio | [Visit my portfolio](https://binitportfolioz.netlify.app/) |
-| 📧 Email     | [Send me an email](mailto:your-email@example.com)          |
+| 📧 Email | [Send me an email](mailto:your-email@example.com) |
+
+</div>
 
 ---
 
