@@ -1,13 +1,13 @@
-# 👋 Hey, I'm Binit Nayak!
-
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Binit%20Nayak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16" alt="Binit Nayak - Full-Stack Developer" />
+
 [![GitHub followers](https://img.shields.io/github/followers/binitnayak?style=social)](https://github.com/binitnayak)
-[![Profile Views](https://komarev.com/ghpvc/?username=binitnayak\&color=blueviolet)](https://github.com/binitnayak)
+[![Profile Views](https://komarev.com/ghpvc/?username=binitnayak&color=blueviolet)](https://github.com/binitnayak)
 
-### Full-Stack Developer | MERN | AI/ML Curious | Building & Shipping 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8E75B2&center=true&vCenter=true&width=600&lines=Full-Stack%20Developer%20building%20with%20MERN;Exploring%20AI%2C%20ML%20and%20Computer%20Vision;Learn%20-%20Build%20-%20Deploy%20-%20Improve" alt="Typing SVG" />
 
-I build real-world web applications and explore how AI/ML can solve practical problems.
+I build real-world web applications and explore how AI/ML can solve practical problems. 🚀
 
 </div>
 
@@ -17,10 +17,10 @@ I build real-world web applications and explore how AI/ML can solve practical pr
 
 ```python
 binit = {
-    "currently_building": "YouTube Tags - AI Content Generation with Gemini API",
+    "currently_building": "YouTube Tags — AI Content Generation with Gemini API",
     "learning": "Machine Learning & Computer Vision",
-    "focus": "Building practical, production-ready applications",
-    "stack": "React, Next.js, Node.js, Express, MongoDB",
+    "focus": "Practical, production-ready applications",
+    "stack": ["React", "Next.js", "Node.js", "Express", "MongoDB"],
     "mindset": "Learn → Build → Deploy → Improve"
 }
 ```
@@ -37,35 +37,21 @@ binit = {
 <div align="center">
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend stack" />
 
 ### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend stack" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
-### Databases & AI
+### Database & AI
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Database stack" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge\&logo=neon\&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Tools" />
 
 </div>
 
@@ -83,26 +69,25 @@ binit = {
 An AI-powered application for generating content using the Google Gemini API.
 </p>
 
-**Tech Stack**
-
-`Next.js` `TypeScript` `Gemini API` `Database`
+**Tech Stack:** `Next.js` `TypeScript` `Gemini API` `Database`
 
 **Highlights**
-
-* 🤖 AI-powered content generation
-* 🔌 Gemini API integration
-* 🗄️ Database integration
-* 📱 Responsive interface
-* 🚀 Deployed web application
+- 🤖 AI-powered content generation
+- 🔌 Gemini API integration
+- 🗄️ Database integration
+- 📱 Responsive interface
+- 🚀 Deployed web application
 
 <p align="center">
 <a href="https://github.com/binitnayak/Ai-powered-content-generator">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
 </a>
+<br/>
+<img src="https://img.shields.io/github/stars/binitnayak/Ai-powered-content-generator?style=flat-square&color=8E75B2" alt="Stars" />
+<img src="https://img.shields.io/github/forks/binitnayak/Ai-powered-content-generator?style=flat-square&color=8E75B2" alt="Forks" />
 </p>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center">🌐 Developer Portfolio</h3>
@@ -111,22 +96,22 @@ An AI-powered application for generating content using the Google Gemini API.
 A personal portfolio showcasing my projects, technical skills and development journey.
 </p>
 
-**Tech Stack**
-
-`React` `TypeScript` `Tailwind CSS`
+**Tech Stack:** `React` `TypeScript` `Tailwind CSS`
 
 **Highlights**
-
-* 🎨 Modern UI
-* 📱 Responsive design
-* ⚡ Fast frontend
-* 🚀 Deployed online
-* 💼 Project-focused presentation
+- 🎨 Modern UI
+- 📱 Responsive design
+- ⚡ Fast frontend
+- 🚀 Deployed online
+- 💼 Project-focused presentation
 
 <p align="center">
 <a href="https://github.com/binitnayak/portfolio">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
 </a>
+<br/>
+<img src="https://img.shields.io/github/stars/binitnayak/portfolio?style=flat-square&color=667eea" alt="Stars" />
+<img src="https://img.shields.io/github/forks/binitnayak/portfolio?style=flat-square&color=667eea" alt="Forks" />
 </p>
 
 </td>
@@ -139,15 +124,16 @@ A personal portfolio showcasing my projects, technical skills and development jo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=binitnayak&show_icons=true&theme=tokyonight&hide_border=true" alt="Binit's GitHub Stats" />
-
-<br/>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=binitnayak&show_icons=true&theme=tokyonight&hide_border=true" alt="Binit's GitHub Stats" /></td>
+<td><img src="https://streak-stats.demolab.com?user=binitnayak&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+</tr>
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binitnayak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=binitnayak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=binitnayak&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -155,86 +141,46 @@ A personal portfolio showcasing my projects, technical skills and development jo
 
 ## 🎯 What I'm Currently Doing
 
-* 🔨 **Building:** YouTube Tags Generator using Gemini API
-* 📚 **Learning:** Machine Learning & Computer Vision
-* 💻 **Improving:** Full-Stack development and system design
-* 🤝 **Open to:** Full-Stack internships and collaborative AI/ML projects
-* 💬 **Ask me about:** React, Next.js, Node.js, APIs, databases and deployment
+| | |
+|---|---|
+| 🔨 **Building** | YouTube Tags Generator using the Gemini API |
+| 📚 **Learning** | Machine Learning & Computer Vision |
+| 💻 **Improving** | Full-stack development and system design |
+| 🤝 **Open to** | Full-stack internships and collaborative AI/ML projects |
+| 💬 **Ask me about** | React, Next.js, Node.js, APIs, databases and deployment |
 
 ---
 
 ## 💡 My Approach
 
-```text
-        IDEA
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-       DEPLOY
-          ↓
-       ITERATE
-          ↓
-      SHIP 🚀
-```
-
-I believe the best way to learn software development is to **build real things**.
-
-### What I focus on:
-
-* ✅ Building practical projects instead of only following tutorials
-* ✅ Understanding how frontend, backend and databases work together
-* ✅ Integrating APIs and AI into useful applications
-* ✅ Deploying projects and learning from real-world issues
-* ✅ Writing clean and maintainable code
-* ✅ Continuously improving through projects and experimentation
-
----
 <div align="center">
 
-## 🔗 Connect With Me
-
-| Platform | Link |
-|:--------:|:----:|
-| 💼 LinkedIn | [Connect with me](https://linkedin.com/in/binitdev) |
-| 🐙 GitHub | [Follow me](https://github.com/binitnayak) |
-| 🌐 Portfolio | [Visit my portfolio](https://binitportfolioz.netlify.app/) |
-| 📧 Email | [Send me an email](mailto:your-email@example.com) |
+`IDEA` → `BUILD` → `TEST` → `DEPLOY` → `ITERATE` → `SHIP` 🚀
 
 </div>
 
+I believe the best way to learn software development is to **build real things**.
+
+**What I focus on:**
+- ✅ Building practical projects instead of only following tutorials
+- ✅ Understanding how frontend, backend and databases work together
+- ✅ Integrating APIs and AI into useful applications
+- ✅ Deploying projects and learning from real-world issues
+- ✅ Writing clean and maintainable code
+- ✅ Continuously improving through projects and experimentation
+
 ---
 
-## ⚙️ A Little More About Me
+## 🔗 Connect With Me
 
-```javascript
-const binit = {
-  role: "Full-Stack Developer",
-  interests: [
-    "Web Development",
-    "AI/ML",
-    "Computer Vision",
-    "Building Real Projects"
-  ],
+<div align="center">
 
-  currentlyLearning: [
-    "Machine Learning",
-    "Computer Vision",
-    "Advanced Full-Stack Development"
-  ],
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binitdev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binitnayak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://binitportfolioz.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-  openFor: [
-    "Internships",
-    "Collaborations",
-    "Interesting Projects"
-  ],
-
-  mindset: "Learn → Build → Deploy → Improve"
-};
-
-console.log("Let's build something useful 🚀");
-```
+</div>
 
 ---
 
@@ -242,10 +188,16 @@ console.log("Let's build something useful 🚀");
 
 ### ⭐ If you find my projects interesting, consider starring a repository!
 
-[![GitHub Stars](https://img.shields.io/github/stars/binitnayak?style=social)](https://github.com/binitnayak)
-
-<br/>
+[![Follow on GitHub](https://img.shields.io/github/followers/binitnayak?style=for-the-badge&logo=github&label=Follow&color=8E75B2&logoColor=white)](https://github.com/binitnayak)
 
 **Made with 💻 and ☕ by Binit Nayak**
 
+</div>
+
+```javascript
+console.log("Thanks for stopping by — let's build something useful 🚀");
+```
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&animation=fadeIn" alt="Footer wave" />
 </div>
