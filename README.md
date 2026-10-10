@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+building+with+MERN+%26+Next.js;Shipping+AI-powered+apps+with+Gemini+API;Exploring+Machine+Learning+%26+Computer+Vision;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing SVG" />
 </a>
 
-<br/>
+<!-- Moving skills strip -->
+<img src="assets/marquee-skills.svg" width="100%" alt="Skills" />
+<img src="assets/marquee-tools.svg" width="100%" alt="Tools" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-667eea?style=for-the-badge)](https://binitportfolioz.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binitdev)
@@ -18,11 +20,11 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 👋 Hey, I'm Binit
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="wave" /> Hey, I'm Binit
 
-I'm a **B.Tech CS student** at Jharkhand Rai University who learns by **building and shipping**. I like taking an idea, turning it into a working product, deploying it, and making it better with real feedback.
+I'm a **B.Tech CS student** at Jharkhand Rai University who learns by **building and shipping**. I like taking an idea, turning it into a working product, deploying it, and improving it with real feedback.
 
 ```ts
 const binit = {
@@ -35,7 +37,7 @@ const binit = {
 } as const;
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +53,7 @@ const binit = {
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -61,7 +63,7 @@ const binit = {
 
 ### 🤖 AI-Powered Content Generator
 
-Generate ready-to-use content in seconds using the **Google Gemini API**: prompt in, polished output out.
+Generate ready-to-use content in seconds using the **Google Gemini API**.
 
 **Stack:** `Next.js` `TypeScript` `Gemini API` `Neon / Postgres`
 
@@ -78,7 +80,7 @@ Generate ready-to-use content in seconds using the **Google Gemini API**: prompt
 
 ### 🌐 Developer Portfolio
 
-A fast, clean portfolio that presents my projects, skills, and journey, designed to make a strong first impression.
+A fast, clean portfolio that presents my projects, skills, and journey.
 
 **Stack:** `React` `TypeScript` `Tailwind CSS`
 
@@ -94,11 +96,9 @@ A fast, clean portfolio that presents my projects, skills, and journey, designed
 </tr>
 </table>
 
-### 🔨 In Progress
+> 🔨 **In progress:** YouTube Tags Generator, an AI tool for SEO-friendly tags, titles and descriptions using the Gemini API. *Coming soon.*
 
-> **YouTube Tags Generator**: an AI tool that creates SEO-friendly tags, titles, and descriptions for YouTube creators using the Gemini API. *Coming soon.*
-
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
@@ -109,9 +109,13 @@ A fast, clean portfolio that presents my projects, skills, and journey, designed
 
 <img src="https://streak-stats.demolab.com?user=binitnayak&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binitnayak&bg_color=0D1117&color=A78BFA&line=667eea&point=F093FB&area=true&area_color=764ba2&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🐍 Contribution Snake
 
@@ -123,7 +127,7 @@ A fast, clean portfolio that presents my projects, skills, and journey, designed
 </picture>
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🎯 Right Now
 
@@ -135,8 +139,6 @@ A fast, clean portfolio that presents my projects, skills, and journey, designed
 | 💬 **Ask me about** | React, Next.js, Node.js, REST APIs, MongoDB, deployment |
 | ⚡ **Fun fact** | I debug best with chai ☕ |
 
----
-
 ## 🗺️ 2026 Goals
 
 - [x] Ship projects with real deployments
@@ -146,25 +148,13 @@ A fast, clean portfolio that presents my projects, skills, and journey, designed
 - [ ] Land a full-stack internship
 - [ ] Contribute to open source
 
----
-
-## 💡 How I Build
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-`IDEA` → `BUILD` → `TEST` → `DEPLOY` → `ITERATE` → `SHIP` 🚀
+### 💬 Thought of the day
 
-</div>
-
-- ✅ Real projects over tutorial-only learning
-- ✅ Understanding how frontend, backend, and database fit together
-- ✅ Using AI to solve practical problems, not just for the hype
-- ✅ Clean, maintainable, production-minded code
-- ✅ Deploy early, learn from real users, improve fast
-
----
-
-<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds" alt="Quote" />
 
 ### 🤝 Let's build something useful together
 
