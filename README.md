@@ -1,34 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Binit%20Nayak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16" alt="Binit Nayak - Full-Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=230&section=header&text=Binit%20Nayak&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20%2F%20ML%20Builder&descAlignY=60&descSize=17" alt="Binit Nayak - Full-Stack Developer" />
 
-[![GitHub followers](https://img.shields.io/github/followers/binitnayak?style=social)](https://github.com/binitnayak)
-[![Profile Views](https://komarev.com/ghpvc/?username=binitnayak&color=blueviolet)](https://github.com/binitnayak)
+<a href="https://github.com/binitnayak">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+building+with+MERN+%26+Next.js;Shipping+AI-powered+apps+with+Gemini+API;Exploring+Machine+Learning+%26+Computer+Vision;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8E75B2&center=true&vCenter=true&width=600&lines=Full-Stack%20Developer%20building%20with%20MERN;Exploring%20AI%2C%20ML%20and%20Computer%20Vision;Learn%20-%20Build%20-%20Deploy%20-%20Improve" alt="Typing SVG" />
+<br/>
 
-I build real-world web applications and explore how AI/ML can solve practical problems. 🚀
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-667eea?style=for-the-badge)](https://binitportfolioz.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binitdev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_REAL_EMAIL@gmail.com)
+![Open to Internships](https://img.shields.io/badge/Open_to-Internships-22c55e?style=for-the-badge)
+
+![Profile Views](https://komarev.com/ghpvc/?username=binitnayak&color=764ba2&style=flat-square&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/binitnayak?style=flat-square&logo=github&color=667eea)](https://github.com/binitnayak)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👋 Hey, I'm Binit
 
-```python
-binit = {
-    "currently_building": "YouTube Tags — AI Content Generation with Gemini API",
-    "learning": "Machine Learning & Computer Vision",
-    "focus": "Practical, production-ready applications",
-    "stack": ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-    "mindset": "Learn → Build → Deploy → Improve"
-}
+I'm a **B.Tech CS student** at Jharkhand Rai University who learns by **building and shipping**. I like taking an idea, turning it into a working product, deploying it, and making it better with real feedback.
+
+```ts
+const binit = {
+  role: "Full-Stack Developer",
+  building: "YouTube Tags: AI content generation with Gemini API",
+  learning: ["Machine Learning", "Computer Vision", "System Design"],
+  stack: ["React", "Next.js", "TypeScript", "Node.js", "Express", "MongoDB"],
+  lookingFor: "Full-stack internships & AI/ML collabs",
+  motto: "Learn → Build → Deploy → Improve",
+} as const;
 ```
-
-🎓 **B.Tech Computer Science student** at Jharkhand Rai University
-💻 **Full-Stack Developer** focused on React, Next.js, Node.js and MongoDB
-🤖 **AI/ML Enthusiast** exploring Gemini API, Machine Learning and Computer Vision
-🚀 **Builder mindset** — I prefer learning by building and shipping real projects
 
 ---
 
@@ -36,22 +41,13 @@ binit = {
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend stack" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend stack" />
-
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
-### Database & AI
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Database stack" />
-
-![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Tools" />
+| Layer | Technologies |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" /> ![REST](https://img.shields.io/badge/REST_API-009688?style=flat-square) |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="database" /> ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) |
+| **AI / ML** | ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="tools" /> |
 
 </div>
 
@@ -63,77 +59,55 @@ binit = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 AI-Powered Content Generator</h3>
+### 🤖 AI-Powered Content Generator
 
-<p align="center">
-An AI-powered application for generating content using the Google Gemini API.
-</p>
+Generate ready-to-use content in seconds using the **Google Gemini API**: prompt in, polished output out.
 
-**Tech Stack:** `Next.js` `TypeScript` `Gemini API` `Database`
+**Stack:** `Next.js` `TypeScript` `Gemini API` `Neon / Postgres`
 
-**Highlights**
-- 🤖 AI-powered content generation
-- 🔌 Gemini API integration
-- 🗄️ Database integration
-- 📱 Responsive interface
-- 🚀 Deployed web application
+- ⚡ Fast AI content generation via Gemini
+- 🗄️ Saves generation history in a database
+- 📱 Fully responsive UI
+- 🚀 Deployed on Vercel
 
-<p align="center">
-<a href="https://github.com/binitnayak/Ai-powered-content-generator">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-</a>
-<br/>
-<img src="https://img.shields.io/github/stars/binitnayak/Ai-powered-content-generator?style=flat-square&color=8E75B2" alt="Stars" />
-<img src="https://img.shields.io/github/forks/binitnayak/Ai-powered-content-generator?style=flat-square&color=8E75B2" alt="Forks" />
-</p>
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/binitnayak/Ai-powered-content-generator)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-LIVE-DEMO-LINK)
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Developer Portfolio</h3>
+### 🌐 Developer Portfolio
 
-<p align="center">
-A personal portfolio showcasing my projects, technical skills and development journey.
-</p>
+A fast, clean portfolio that presents my projects, skills, and journey, designed to make a strong first impression.
 
-**Tech Stack:** `React` `TypeScript` `Tailwind CSS`
+**Stack:** `React` `TypeScript` `Tailwind CSS`
 
-**Highlights**
-- 🎨 Modern UI
-- 📱 Responsive design
-- ⚡ Fast frontend
-- 🚀 Deployed online
-- 💼 Project-focused presentation
+- 🎨 Modern, minimal UI
+- 📱 Mobile-first responsive design
+- ⚡ Quick load, deployed on Netlify
+- 💼 Project-focused layout
 
-<p align="center">
-<a href="https://github.com/binitnayak/portfolio">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-</a>
-<br/>
-<img src="https://img.shields.io/github/stars/binitnayak/portfolio?style=flat-square&color=667eea" alt="Stars" />
-<img src="https://img.shields.io/github/forks/binitnayak/portfolio?style=flat-square&color=667eea" alt="Forks" />
-</p>
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/binitnayak/portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-764ba2?style=for-the-badge&logo=netlify&logoColor=white)](https://binitportfolioz.netlify.app/)
 
 </td>
 </tr>
 </table>
 
+### 🔨 In Progress
+
+> **YouTube Tags Generator**: an AI tool that creates SEO-friendly tags, titles, and descriptions for YouTube creators using the Gemini API. *Coming soon.*
+
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=binitnayak&show_icons=true&theme=tokyonight&hide_border=true" alt="Binit's GitHub Stats" /></td>
-<td><img src="https://streak-stats.demolab.com?user=binitnayak&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
-</tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=binitnayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binitnayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binitnayak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=binitnayak&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://streak-stats.demolab.com?user=binitnayak&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -142,30 +116,39 @@ A personal portfolio showcasing my projects, technical skills and development jo
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binitnayak/binitnayak/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binitnayak/binitnayak/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/binitnayak/binitnayak/output/github-snake.svg" />
 </picture>
-
 </div>
 
 ---
 
-## 🎯 What I'm Currently Doing
+## 🎯 Right Now
 
 | | |
 |---|---|
-| 🔨 **Building** | YouTube Tags Generator using the Gemini API |
-| 📚 **Learning** | Machine Learning & Computer Vision |
-| 💻 **Improving** | Full-stack development and system design |
-| 🤝 **Open to** | Full-stack internships and collaborative AI/ML projects |
-| 💬 **Ask me about** | React, Next.js, Node.js, APIs, databases and deployment |
+| 🔨 **Building** | YouTube Tags Generator (Gemini API) |
+| 📚 **Learning** | Machine Learning, Computer Vision, System Design |
+| 🤝 **Open to** | Full-stack internships & AI/ML collaborations |
+| 💬 **Ask me about** | React, Next.js, Node.js, REST APIs, MongoDB, deployment |
+| ⚡ **Fun fact** | I debug best with chai ☕ |
 
 ---
 
-## 💡 My Approach
+## 🗺️ 2026 Goals
+
+- [x] Ship projects with real deployments
+- [x] Integrate AI APIs into full-stack apps
+- [ ] Launch YouTube Tags Generator publicly
+- [ ] Build and deploy a Computer Vision project
+- [ ] Land a full-stack internship
+- [ ] Contribute to open source
+
+---
+
+## 💡 How I Build
 
 <div align="center">
 
@@ -173,45 +156,26 @@ A personal portfolio showcasing my projects, technical skills and development jo
 
 </div>
 
-I believe the best way to learn software development is to **build real things**.
-
-**What I focus on:**
-- ✅ Building practical projects instead of only following tutorials
-- ✅ Understanding how frontend, backend and databases work together
-- ✅ Integrating APIs and AI into useful applications
-- ✅ Deploying projects and learning from real-world issues
-- ✅ Writing clean and maintainable code
-- ✅ Continuously improving through projects and experimentation
+- ✅ Real projects over tutorial-only learning
+- ✅ Understanding how frontend, backend, and database fit together
+- ✅ Using AI to solve practical problems, not just for the hype
+- ✅ Clean, maintainable, production-minded code
+- ✅ Deploy early, learn from real users, improve fast
 
 ---
 
-## 🔗 Connect With Me
-
 <div align="center">
+
+### 🤝 Let's build something useful together
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binitdev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binitnayak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://binitportfolioz.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://binitportfolioz.netlify.app/)
+[![Follow](https://img.shields.io/github/followers/binitnayak?style=for-the-badge&logo=github&label=Follow&color=8E75B2&logoColor=white)](https://github.com/binitnayak)
 
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find my projects interesting, consider starring a repository!
-
-[![Follow on GitHub](https://img.shields.io/github/followers/binitnayak?style=for-the-badge&logo=github&label=Follow&color=8E75B2&logoColor=white)](https://github.com/binitnayak)
+⭐ *If you like my projects, drop a star on a repo!*
 
 **Made with 💻 and ☕ by Binit Nayak**
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer" alt="Footer wave" />
 
-```javascript
-console.log("Thanks for stopping by — let's build something useful 🚀");
-```
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&animation=fadeIn" alt="Footer wave" />
 </div>
