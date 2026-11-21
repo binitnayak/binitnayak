@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#090d14"/></linearGradient>
+ <radialGradient id="g1" cx="12%" cy="0%" r="55%"><stop offset="0" stop-color="#3b82f6" stop-opacity=".45"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+ <radialGradient id="g2" cx="85%" cy="15%" r="45%"><stop offset="0" stop-color="#22c55e" stop-opacity=".22"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></radialGradient>
+ <radialGradient id="g3" cx="55%" cy="105%" r="50%"><stop offset="0" stop-color="#a855f7" stop-opacity=".35"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+</defs>
+<style>text{font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif}</style>
+<rect x="1" y="1" width="858" height="198" rx="22" fill="url(#bg)" stroke="#3b6ea8" stroke-opacity=".8"/>
+<rect x="1" y="1" width="858" height="198" rx="22" fill="url(#g1)"/>
+<rect x="1" y="1" width="858" height="198" rx="22" fill="url(#g2)"/>
+<rect x="1" y="1" width="858" height="198" rx="22" fill="url(#g3)"/>
+<text x="46" y="52" font-size="11" font-weight="800" letter-spacing="3" fill="#8b96ab">HIGHLIGHTS</text>
+<rect x="36" y="70" width="250" height="100" rx="16" fill="#05080f" fill-opacity=".55" stroke="#3b6ea8" stroke-opacity=".6"/>
+<rect x="36" y="86" width="4" height="68" rx="2" fill="#4f9cf9"/>
+<text x="60" y="114" font-size="17" font-weight="800" fill="#fff">Open Source</text>
+<text x="60" y="140" font-size="13" fill="#9aa5ba">16 public repositories</text>
+<rect x="306" y="70" width="250" height="100" rx="16" fill="#05080f" fill-opacity=".55" stroke="#3b6ea8" stroke-opacity=".6"/>
+<rect x="306" y="86" width="4" height="68" rx="2" fill="#22c55e"/>
+<text x="330" y="114" font-size="17" font-weight="800" fill="#fff">Impact</text>
+<text x="330" y="140" font-size="13" fill="#9aa5ba">16 stars earned</text>
+<rect x="576" y="70" width="250" height="100" rx="16" fill="#05080f" fill-opacity=".55" stroke="#3b6ea8" stroke-opacity=".6"/>
+<rect x="576" y="86" width="4" height="68" rx="2" fill="#a855f7"/>
+<text x="600" y="114" font-size="17" font-weight="800" fill="#fff">Community</text>
+<text x="600" y="140" font-size="13" fill="#9aa5ba">0 followers</text>
+<text x="846" y="190" text-anchor="end" font-size="10" fill="#ffffff" fill-opacity=".25" font-weight="600">@binitnayak</text>
+</svg>
